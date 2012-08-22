@@ -1,0 +1,14 @@
+/ext/cairo/Makefile
+/ext/cairo/libruby-cairo.a
+/ext/cairo/mkmf.log
+*.so
+*.o
+/doc/
+/rcairo-*.tar.gz*
+/test/.test-result/
+/tmp/
+/vendor/
+/pkg/
+/Makefile
+/Makefile.lib
+/Gemfile.lock
